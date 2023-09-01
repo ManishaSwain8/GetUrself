@@ -2,7 +2,9 @@
 
 <br/>
 
-https://github.com/ManishaSwain8/GetUrself/assets/96622693/7f4bfe4b-0a22-4389-b186-e1b62a33e0db
+https://github.com/ManishaSwain8/GetUrself/assets/96622693/a9a970f4-f1f1-42be-a0ca-d31b8c4239a2
+
+
 
 <br/>
 
