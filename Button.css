@@ -1,0 +1,60 @@
+.loading-spinner-button {
+  background: #2c2cb1;
+  border-radius: 999px;
+  box-shadow: #5e5df0 0 10px 20px -10px;
+  box-sizing: border-box;
+  color: #ffffff;
+  cursor: pointer;
+  font-family:
+    Inter,
+    Helvetica,
+    "Apple Color Emoji",
+    "Segoe UI Emoji",
+    NotoColorEmoji,
+    "Noto Color Emoji",
+    "Segoe UI Symbol",
+    "Android Emoji",
+    EmojiSymbols,
+    -apple-system,
+    system-ui,
+    "Segoe UI",
+    Roboto,
+    "Helvetica Neue",
+    "Noto Sans",
+    sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+  line-height: 24px;
+  opacity: 1;
+  outline: 0 solid transparent;
+  padding: 8px 18px;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  height: 3rem;
+  width: 15rem;
+  word-break: break-word;
+  border: 0;
+  animation: bounce 2s ease 2;
+}
+
+@keyframes bounce {
+  0%,
+  20%,
+  50%,
+  80%,
+  100% {
+    transform: translateY(0);
+  }
+  40% {
+    transform: translateY(-30px);
+  }
+  60% {
+    transform: translateY(-15px);
+  }
+}
+.loading-spinner-button:hover {
+  box-shadow: 10px 10px 5px 129px rgba(0, 0, 0, 0.1) inset;
+  -webkit-box-shadow: 10px 10px 5px 129px rgba(0, 0, 0, 0.1) inset;
+  -moz-box-shadow: 10px 10px 5px 129px rgba(0, 0, 0, 0.1) inset;
+}
