@@ -1,33 +1,17 @@
-This is a [Plasmo extension](https://docs.plasmo.com/) project bootstrapped with [`plasmo init`](https://www.npmjs.com/package/plasmo).
+### Preview video🚀
 
-## Getting Started
+<br/>
 
-First, run the development server:
+https://github.com/ManishaSwain8/GetUrself/assets/96622693/7f4bfe4b-0a22-4389-b186-e1b62a33e0db
 
-```bash
-pnpm dev
-# or
-npm run dev
-```
+<br/>
 
-Open your browser and load the appropriate development build. For example, if you are developing for the chrome browser, using manifest v3, use: `build/chrome-mv3-dev`.
+### Screenshot images 🪐
 
-You can start editing the popup by modifying `popup.tsx`. It should auto-update as you make changes. To add an options page, simply add a `options.tsx` file to the root of the project, with a react component default exported. Likewise to add a content page, add a `content.ts` file to the root of the project, importing some module and do some logic, then reload the extension on your browser.
+<br/> 
 
-For further guidance, [visit our Documentation](https://docs.plasmo.com/)
+![Screenshot (159)](https://github.com/ManishaSwain8/GetUrself/assets/96622693/2ba89282-a6ba-466c-be61-261728202879)
 
-## Making production build
+![Screenshot (162)](https://github.com/ManishaSwain8/GetUrself/assets/96622693/50cdcc3d-c454-44f8-9137-46f8a4e38c01)
 
-Run the following:
-
-```bash
-pnpm build
-# or
-npm run build
-```
-
-This should create a production bundle for your extension, ready to be zipped and published to the stores.
-
-## Submit to the webstores
-
-The easiest way to deploy your Plasmo extension is to use the built-in [bpp](https://bpp.browser.market) GitHub action. Prior to using this action however, make sure to build your extension and upload the first version to the store to establish the basic credentials. Then, simply follow [this setup instruction](https://docs.plasmo.com/framework/workflows/submit) and you should be on your way for automated submission!
+![Screenshot (161)](https://github.com/ManishaSwain8/GetUrself/assets/96622693/4e07e598-5a0c-4b2d-88b2-76f61167cc2a)
